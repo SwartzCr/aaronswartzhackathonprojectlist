@@ -32,3 +32,9 @@ Project Name: LEAP Encryption Access Project
 Your Name(s): Sean, Kaleen  
 Progress: setup for bitmask_client.  
 Documentation: https://pad.riseup.net/p/r.PWRtCq7B3Bxk8jki  
+
+---
+Project Name: FGSEA Automated hardware profiler / Inventory Tracker
+Your Name(s):Andy Lee Ann
+Progress: Translating XML schema to SQL table schema
+Documentation: http://freegeekseattle.org/wiki/index.php/Inventory_tracking_database
