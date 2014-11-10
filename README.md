@@ -1,7 +1,7 @@
 aaronswartzhackathonprojectlist
 ===============================
 
-A list of projects worked on a the Aaron Swartz Hackathons
+A list of projects worked on at the Aaron Swartz Hackathons
 
 ## What is this?
 This is a list of projects that were worked on at the various locations of the Global Aaron Swartz Hackathons run over the weekend of November 8th-10th
